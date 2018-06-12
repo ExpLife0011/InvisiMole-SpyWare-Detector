@@ -3,6 +3,7 @@ description: InvisiMole SpyWare Detector.
 author: Alexandr Yampolskyi, SOC Prime
 references:
 - https://github.com/eset/malware-ioc/tree/master/invisimole
+- https://www.welivesecurity.com/2018/06/07/invisimole-equipped-spyware-undercover/
 date: 2018/06/07
 status: testing
 logsource:
